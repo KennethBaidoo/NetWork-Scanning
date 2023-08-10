@@ -1,4 +1,4 @@
-# CyberSecurity Lab: Netork-Scanning
+# CyberSecurity Lab: Network-Scanning
 Scanning Live Host and Open ports to detect any breahces
 
 Proficiently employed Nmap for host discovery, employing packet transmission to IP addresses to assess network responsiveness and identify potential vulnerabilities.
